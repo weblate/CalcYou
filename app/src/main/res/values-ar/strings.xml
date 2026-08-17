@@ -171,7 +171,7 @@
     <string name="lightness_slider">النور</string>
     <string name="new_color">لون جديد</string>
     <string name="h2o">H2O (بوصة من الماء)</string>
-    <string name="hex_rgb_code">رمز لون سداسي</string>
+    <string name="hex_rgb_code">رمز لون RGB سداسي</string>
     <string name="add_constant">أضف ثابت</string>
     <string name="binary">ثنائي</string>
     <string name="octal">ثماني</string>
@@ -199,5 +199,8 @@
     <string name="natural_logarithm">لغارتم طبيعي</string>
     <string name="base_10_logarithm">لغارتم عشري</string>
     <string name="base_2_logarithm">لغارتم ثنائي</string>
-    <string name="logarithm_with_custom_base">لغارتم ذو أساس مخصص</string>
+    <string name="logarithm_with_custom_base"></string>
+    <string name="favorites">المفضَّلات</string>
+    <string name="search">البحث</string>
+    <string name="close">إغلاق</string>
 </resources>
