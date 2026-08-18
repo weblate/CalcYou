@@ -199,7 +199,6 @@
     <string name="natural_logarithm">لغارتم طبيعي</string>
     <string name="base_10_logarithm">لغارتم عشري</string>
     <string name="base_2_logarithm">لغارتم ثنائي</string>
-    <string name="logarithm_with_custom_base"></string>
     <string name="favorites">المفضَّلات</string>
     <string name="search">البحث</string>
     <string name="close">إغلاق</string>
