@@ -238,4 +238,5 @@
     <string name="syntax_help">مساعدة بناء الجملة</string>
     <string name="function_syntax_reference">مرجع بناء صيغة الدوال</string>
     <string name="trigonometric_functions">الدوال المثلثية</string>
+    <string name="remove_decimals">إزالة الكسور العشرية</string>
 </resources>
