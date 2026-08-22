@@ -115,6 +115,8 @@
     <string name="joule">Joule</string>
     <string name="kilojoule">Kilojoule</string>
     <string name="megajoule">Megajoule</string>
+    <string name="watt_hours">Watt hours (Wh)</string>
+    <string name="kilowatt_hours">Kilowatt hours (kWh)</string>
     <string name="calorie">Calorie</string>
     <string name="kilocalorie">Kilocalorie</string>
     <string name="newton_meter">Newton-meter</string>
