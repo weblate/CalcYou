@@ -29,8 +29,6 @@ body:
       options:
         - label: I have searched the existing issues and this is a new ticket, **NOT** a duplicate or related to another open issue.
           required: true
-        - label: I'm not requesting to add a new unit converter or to modify an existing one.
-          required: true
         - label: I have written a short but informative title.
           required: true
         - label: I will fill out all of the requested information in this form.
