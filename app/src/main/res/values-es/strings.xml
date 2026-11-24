@@ -239,4 +239,6 @@
     <string name="pinch">Pizca</string>
     <string name="favorites">Favoritos</string>
     <string name="search">Buscar</string>
+    <string name="watt_hours">Vatios-hora (Wh)</string>
+    <string name="kilowatt_hours">Kilovatios-hora (kWh)</string>
 </resources>
